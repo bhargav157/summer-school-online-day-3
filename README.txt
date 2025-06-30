@@ -17,4 +17,4 @@ This project demonstrates how to create a responsive blog layout using **CSS Gri
 ## How to Use
 1. Clone the repository to your local machine using:
    ```bash
-   git clone https://github.com/your-username/summer-school-online-day-x.git
+   git clone https://github.com/your-username/summer-school-online-day-3.git
